@@ -1,9 +1,13 @@
-# [CSGO-CSS] HNS Anti BodyBlock (1.0.0)
+# Private [CSGO-CSS] HNS Anti BodyBlock (1.0.0)
 https://hlmod.net/threads/csgo-css-hns-anti-bodyblock.66104/
 
 ### Fall Damage Print + Health Regeneration Fall Damage + God Mode Timer
 
 https://www.youtube.com/watch?v=ck5GlHgqC-E
+
++ will update in future
++ requested any ideas
+if you are interested add me on Discord : oqyh
 
 ## .:[ ConVars ]:.
  ```
